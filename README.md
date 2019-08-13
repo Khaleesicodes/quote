@@ -1,5 +1,5 @@
 # quote
-Creating a Swift single page App to implement PhraseApp
+Creating a Swift single page App to implement [Phrase](https://phrase.com/)
 
 # Proper System Setup
 1. Update to the newest Xcode version if you haven't done already
